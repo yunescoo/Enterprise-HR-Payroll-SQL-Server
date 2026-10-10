@@ -1,0 +1,26 @@
+# SQL Server / local database files
+*.mdf
+*.ldf
+*.bak
+*.trn
+*.dif
+
+# Local configuration and credentials
+.env
+.env.*
+*.user
+*.suo
+
+# Editor / operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary exports
+*.log
+*.tmp
+*.temp
+
+# Keep project SQL scripts, Markdown docs, diagrams, and screenshots under version control.
